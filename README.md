@@ -1,2 +1,5 @@
-# fake-news-detection
-Licenta
+# Proiect de licență - 2022
+#### Titlul proiectului: Sistem pentru detecția știrilor false folosind tehnici de procesare a limbajului natural
+##### Universitatea Politehnica Timișoara Facultatea de Electronică, Telecomunicații și Tehnologii Informaționale
+
+Prin prezentul proiect de licență, am dezvoltat un sistem capabil să recunoască știrile false, folosind tehnici de procesare a limbajului natural. Pentru a putea demonstra utilitatea sistemului, am implementat și o interfață grafică (pagină web) capabilă să interacționeze cu sistemul de detecție. Pentru a putea verifica o știre, utilizatorul poate introduce adresa paginii web pe care se află știrea ce se dorește a-i verifica autenticitatea, iar sistemul va prelua conținutul acesteia sau va putea introduce direct articolul inserând textul acestuia într-un text input.
